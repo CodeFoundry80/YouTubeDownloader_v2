@@ -2,6 +2,10 @@
 
 ---
 
+TotalVirus detects 2 false positive viruses. Reason being it downloads FFMPEG and YT-DLP to fully function.
+<img width="860" height="1376" alt="image" src="https://github.com/user-attachments/assets/84c792a5-c24c-4df0-9496-b1bd8d0b2d41" />
+
+
 ## ⚙️ Features
 
 - 🎥 **Download YouTube videos (MP4)**
